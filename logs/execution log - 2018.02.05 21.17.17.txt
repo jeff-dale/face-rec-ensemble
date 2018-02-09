@@ -1,0 +1,16 @@
+Reading images from: Extended Yale Database B
+[2018.02.05 21:17:17] Using user-supplied parameters...
+[2018.02.05 21:17:17] Eigenfaces parameters:
+	num_components: 82
+	Accuracy: Unknown
+[2018.02.05 21:17:17] Fisherfaces parameters:
+	num_components: 31
+	Accuracy: Unknown
+[2018.02.05 21:17:17] LocalBinaryPatternHistograms parameters:
+	radius: 4
+	neighbors: 11
+	grid_x: 11
+	grid_y: 11
+	Accuracy: Unknown
+[2018.02.05 21:17:17] Training initial models
+

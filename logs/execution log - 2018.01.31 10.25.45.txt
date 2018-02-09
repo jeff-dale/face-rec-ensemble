@@ -1,0 +1,18 @@
+Reading images from: Extended Yale Database B
+================================================== Parameter Tuning ==================================================
+[2018.01.31 10:25:45] Begin tuning algorithm Eigenfaces...
+[2018.01.31 10:38:37] Eigenfaces optimal parameters:
+	num_components: 82
+	Accuracy: 14.08%
+[2018.01.31 10:38:37] Begin tuning algorithm Fisherfaces...
+[2018.01.31 10:54:02] Fisherfaces optimal parameters:
+	num_components: 32
+	Accuracy: 34.83%
+[2018.01.31 10:54:02] Begin tuning algorithm LocalBinaryPatternHistograms...
+[2018.01.31 13:17:17] LocalBinaryPatternHistograms optimal parameters:
+	radius: 4
+	neighbors: 6
+	grid_x: 11
+	grid_y: 9
+	Accuracy: 28.37%
+
